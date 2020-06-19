@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=71:9C:E4:C8:AC:4A:FD:B2:BD:F9:BB:F3:68:A9:2D:25:AF:F6:B6:04%3Bcom.geoluc.gpscapture
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.geoluc.gpscapture
+
+    SHA-1 certificate fingerprint:
+    71:9C:E4:C8:AC:4A:FD:B2:BD:F9:BB:F3:68:A9:2D:25:AF:F6:B6:04
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>
